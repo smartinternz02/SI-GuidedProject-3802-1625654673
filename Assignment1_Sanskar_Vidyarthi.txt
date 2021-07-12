@@ -1,0 +1,33 @@
+20 use cases of the Internet of Things
+
+SMART FACTORIES
+
+1) Enterprise Asset management
+2) Predictive maintenance
+3) Industrial process automation/optimization
+4) Energy Management
+
+SMART CITIES
+
+5) Outdoor surveillance
+6) Smart lighting
+7) Electronic Road Toll Collection and Traffic Management
+8) Smart parking
+9) Noise Monitoring
+10)Structural Health Monitoring
+11)Waste Management
+
+WATER MANAGEMENT
+
+12)Water conservation
+13)Smart Irrigation
+14)Leakage Management
+15)Water Quality Management
+
+DIGITAL HEALTH
+
+16)Ultraviolet Radiation Monitoring
+17)Fall Detection
+18)Companion Robots
+19)Medical Fridges
+20)Patient Surveillance/Remote Patient Monitoring
